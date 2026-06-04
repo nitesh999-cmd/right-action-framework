@@ -27,10 +27,10 @@ Each follows: principle vs ego → evidence vs emotion → proportionality → l
 
 **Situation:** I'm considering taking a dispute to court.
 
-- **Principle vs ego:** Genuine question — is this protecting a real right or interest, or proving I'm right?
+- **Principle vs ego:** Genuine question — is this about a real issue I should document and discuss with a qualified professional, or proving I'm right?
 - **Evidence vs emotion:** Evidence = documents, records, written facts. Emotion = the story I've built about being wronged.
 - **Proportionality:** Court is one of the largest, slowest, costliest responses. Is the harm that size?
-- **Lower-conflict step:** A documented demand, mediation, or a formal written request before litigation.
+- **Lower-conflict step:** Organise the facts and ask a qualified professional what proportionate options exist before escalating.
 - **Cost:** Money, months of time, stress, focus, and strain on the relationship — win or lose.
 - **Question for a professional:** "Based on my evidence, what are my realistic options short of court, and what would each require of me?" (Let the professional assess merits — this tool will not.)
 - **Control / no control:** I control whether I prepare and seek advice; I don't control the process or any result.
@@ -55,9 +55,9 @@ Each follows: principle vs ego → evidence vs emotion → proportionality → l
 
 - **Principle vs ego:** Watch for sunk cost — "I've come too far to stop" is ego and loss-aversion, not principle.
 - **Evidence vs emotion:** Evidence = what the next spend actually buys me. Emotion = not wanting the past spend to be "wasted."
-- **Proportionality:** Is the remaining real interest worth the *additional* cost — judged forward, ignoring what's already gone?
+- **Proportionality:** Is this important enough to justify asking a qualified professional about the next step, judged forward and ignoring what's already gone?
 - **Lower-conflict step:** Pause. Get a clear scope and cost for the next stage before committing, and define what would make me stop.
-- **Cost:** More money, more months, more stress — possibly for a shrinking benefit.
+- **Cost:** More money, time, stress, and attention before I know whether the next step is worth taking.
 - **Question for a professional:** "For the next stage only, what's the cost, what does it achieve, and what are my off-ramps?"
 - **Control / no control:** I control the next dollar; I don't control the outcome or recover the past spend by spending more.
 - **Reminder:** Decide forward from here, not backward from what's already gone.
@@ -69,7 +69,7 @@ Each follows: principle vs ego → evidence vs emotion → proportionality → l
 - **Principle vs ego — the test:** Would I still act this way if no one ever knew I'd "won," if I couldn't punish them, and if it cost me real time and money? If the energy drops when winning and punishing are removed, it's mostly ego.
 - **Evidence vs emotion:** Write the case in two columns — verifiable facts vs feelings, assumptions, and interpretation. If the facts column is thin, slow down.
 - **Proportionality:** Match the response to the facts column, not the feelings column.
-- **Lower-conflict step:** State the actual outcome I want in one sentence. If I can't name a concrete, fair outcome, I'm fighting for a feeling.
+- **Lower-conflict step:** State the outcome I want in one sentence, then separate that from whether a qualified professional thinks any action is appropriate.
 - **Cost:** Principle is worth real cost; ego usually isn't worth what it asks.
 - **Question for a professional:** "Here are the facts and the outcome I want — what proportionate steps fit, and is this worth pursuing?"
 - **Control / no control:** I control my motive and my next step; I don't control vindication.
