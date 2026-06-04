@@ -4,11 +4,35 @@ A practical AI decision framework for choosing clearly when fear, anger, ego, gu
 
 > **This does not tell you what the universe wants. It helps you think clearly before you act.**
 
+> **Use this to prepare your thinking, not to decide high-stakes matters.**
+
+---
+
+## Use this when / Do not use this as
+
+**Use this when:**
+
+- You are emotionally stirred and need clearer thinking.
+- You are deciding how to respond, pause, act, or wait.
+- You want to separate fear, anger, ego, guilt, desire, attachment, and avoidance from a grounded next step.
+- You want to prepare your thinking before speaking to a professional.
+
+**Do not use this as:**
+
+- Legal advice
+- Medical advice
+- Financial advice
+- Mental-health advice
+- Spiritual authority
+- A prediction tool
+- A replacement for qualified professional advice
+- A final decision-maker for high-stakes matters
+
 ---
 
 ## 1. What this is
 
-The Right Action Framework is a plain-English, reusable prompt system for making decisions when your emotions are loud and your thinking is cloudy. You paste it into ChatGPT, Claude, Codex, Cursor, or any capable AI assistant, answer a short set of questions, and get a grounded breakdown: what the right action is, why, what to watch in yourself, what you control, what you don't, and the next few concrete steps.
+The Right Action Framework is a plain-English, reusable prompt system for making decisions when your emotions are loud and your thinking is cloudy. You paste it into ChatGPT, Claude, Codex, Cursor, or any capable AI assistant, answer a short set of questions, and get a grounded breakdown: a candidate next action to consider, why, what to watch in yourself, what you control, what you don't, and the next few concrete steps.
 
 It is inspired by selected, practical decision themes found in the Bhagavad Gita — duty, right action, detachment from outcome, self-mastery, clarity, courage, and steadiness — translated into modern, secular, everyday language.
 
@@ -17,8 +41,8 @@ It is a thinking tool. Nothing more, nothing less.
 ## 2. Who it is for
 
 - Anyone facing a decision where emotion is interfering with judgment.
-- People deciding about work, business, money, relationships, conflict, parenting, health, discipline, and personal growth.
-- People in legal or conflict situations who want to separate principled action from ego-driven escalation (see the Dharma vs Ego Legal Check).
+- People facing low-stakes everyday, work, relationship, and conflict decisions; for legal, medical, mental-health, financial, safety, or child-welfare stakes, use only as preparation for qualified professional advice.
+- People in conflict situations who want to separate principled action from ego-driven escalation (see the Dharma vs Ego Legal Check).
 - Builders who want a clean, source-safe decision prompt they can drop into their own AI tools.
 
 ## 3. What it is not
@@ -54,7 +78,7 @@ Full mapping in [`gita-reference-map.md`](gita-reference-map.md).
 ## 6. How to use it in ChatGPT
 
 1. Open [`chatgpt-instructions.md`](chatgpt-instructions.md).
-2. Paste the framework prompt into a new chat (or save it as a Custom GPT / saved prompt).
+2. Paste the framework prompt into a new chat (or save it for reuse — see the optional reuse note in the ChatGPT instructions).
 3. Describe your decision. Answer the 5 questions.
 4. Read the structured output. Take the next 3 steps.
 
@@ -74,14 +98,14 @@ Full mapping in [`gita-reference-map.md`](gita-reference-map.md).
 1. **What is the real decision?**
 2. **What is loud right now?** (fear, anger, ego, guilt, desire, attachment, avoidance, pride, revenge, impatience, comfort-seeking — or genuine clarity)
 3. **What is my right responsibility?**
-4. **What is the right action?**
+4. **What is the clearest next action to consider?**
 5. **What result am I attached to — what can I influence, and what can I not control?**
 
 Then the AI returns a practical output block. Full prompt in [`framework.md`](framework.md).
 
 ## 10. The Dharma vs Ego Legal Check
 
-For legal and conflict decisions, a second prompt helps you separate principled action (protecting a real right, child welfare, safety, fairness, finances, truth) from ego-driven escalation (wanting to punish, expose, embarrass, or win). It pushes you toward evidence, proportionality, lower-conflict first steps, and the exact question to ask a professional.
+For legal and conflict decisions, a second prompt helps you separate principled action (protecting a real issue you should document or discuss with a qualified professional — child welfare, safety, fairness, finances, truth) from ego-driven escalation (wanting to punish, expose, embarrass, or win). It is a motive/evidence/proportionality preparation check only — it does not assess whether a legal right exists. It pushes you toward evidence, proportionality, lower-conflict first steps, and the exact question to ask a professional.
 
 Full prompt in [`dharma-vs-ego-legal-check.md`](dharma-vs-ego-legal-check.md).
 
@@ -99,7 +123,7 @@ Full notes in [`sources.md`](sources.md).
 
 ## 13. The validation test before expanding
 
-Before adding anything, run the blind A/B test in [`eval-test.md`](eval-test.md): compare a plain "help me decide" prompt against this framework on 5 real decisions. Only expand the framework if it wins at least **4 out of 5**. Allowed expansion is limited (better examples, cleaner prompts, more AI-tool instructions, small repo improvements, more source-safe Gita mapping). No SaaS, app, website, paid product, or course unless there is strong external demand.
+Before adding anything, run the blind A/B test in [`eval-test.md`](eval-test.md): compare a plain "help me decide" prompt against this framework on 5 real decisions. Only expand the framework if it wins at least **4 out of 5**. Allowed expansion is limited (better examples, cleaner prompts, more AI-tool instructions, small repo improvements, more source-safe Gita mapping). No SaaS, app, website, paid product, landing page, branding expansion, or course.
 
 ---
 

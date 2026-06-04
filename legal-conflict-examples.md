@@ -31,7 +31,7 @@ Each follows: principle vs ego → evidence vs emotion → proportionality → l
 - **Evidence vs emotion:** Evidence = documents, records, written facts. Emotion = the story I've built about being wronged.
 - **Proportionality:** Court is one of the largest, slowest, costliest responses. Is the harm that size?
 - **Lower-conflict step:** A documented demand, mediation, or a formal written request before litigation.
-- **Cost:** Money, months of time, stress, focus, and likely the relationship — win or lose.
+- **Cost:** Money, months of time, stress, focus, and strain on the relationship — win or lose.
 - **Question for a professional:** "Based on my evidence, what are my realistic options short of court, and what would each require of me?" (Let the professional assess merits — this tool will not.)
 - **Control / no control:** I control whether I prepare and seek advice; I don't control the process or any result.
 - **Reminder:** Choose the smallest step that actually protects the real interest.

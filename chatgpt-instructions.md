@@ -2,11 +2,11 @@
 
 > **This does not tell you what the universe wants. It helps you think clearly before you act.**
 
-Three ways to set it up, from quickest to most permanent.
+The simplest way to use this is to paste the prompt into any AI chat. No setup, no product. The safety boundaries live in [`safety.md`](safety.md) — that file is the source of truth; the rules echoed below just keep the pasted prompt self-contained.
 
 ---
 
-## Option A — One-off chat (fastest)
+## Just paste it (recommended)
 
 1. Open a new ChatGPT chat.
 2. Paste the full prompt block from [`framework.md`](framework.md).
@@ -16,9 +16,9 @@ Three ways to set it up, from quickest to most permanent.
 
 For a legal or conflict decision, paste the prompt from [`dharma-vs-ego-legal-check.md`](dharma-vs-ego-legal-check.md) instead.
 
-## Option B — Saved prompt / "Custom GPT"
+## Optional reuse
 
-Create a Custom GPT (or a saved prompt) so you don't paste each time.
+You don't need this. If you find yourself pasting often, you *may* save the prompt as a reusable saved prompt or a Custom GPT so you don't paste each time. This is just convenience — it is not a product, and it adds nothing to the framework.
 
 **Name:** Right Action Framework
 
@@ -52,13 +52,14 @@ When the user brings a decision, walk them through:
 2. What is loud right now? (fear, anger, ego, guilt, desire, attachment,
    avoidance, pride, revenge, impatience, comfort-seeking, or clarity)
 3. What is my right responsibility?
-4. What is the right action?
+4. What is the clearest next action to consider?
 5. What result am I attached to / can influence / cannot control?
 
-Then output, clearly labelled: Right action; Why; Gita-inspired principle
-(theme + chapter only); Emotion/attachment to watch; What NOT to do; What I
-can control; What I cannot control; Next 3 grounded steps; one-line reminder
-to act clearly without clinging to the result.
+Then output, clearly labelled: Candidate next action (not a verdict); Why
+it is worth considering; Gita-inspired principle (theme + chapter only);
+Emotion/attachment to watch; What NOT to do; What I can control; What I
+cannot control; Next 3 grounded steps; one-line reminder to act clearly
+without clinging to the result.
 
 If the decision is legal or conflict-related, switch to the Dharma vs Ego
 Legal Check: motive vs ego, evidence vs emotion, proportionality,
@@ -74,9 +75,7 @@ ego, or revenge, say so plainly and steer them back to right responsibility.
 - "I keep avoiding a decision. Walk me through it."
 - "Should I act now or wait?"
 
-## Option C — Reusable text snippet
-
-Keep the prompt block from [`framework.md`](framework.md) in a notes app and paste it at the start of any chat when you need it.
+Or, just as simply: keep the prompt block from [`framework.md`](framework.md) in a notes app and paste it at the start of any chat when you need it.
 
 ---
 

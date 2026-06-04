@@ -74,6 +74,6 @@ You may expand — but only within the allowed list:
 
 Don't add features. Fix the prompt itself (Question 2 honesty, the output block, the safety rules) and re-run the test. A losing framework doesn't deserve more surface area.
 
-## Not allowed without strong external demand
+## Not allowed
 
-SaaS, website, app, paid product, landing page, branding rabbit hole, or spiritual course. The test gate exists specifically to stop scope creep before it starts.
+No SaaS, app, website, paid product, landing page, branding expansion, or course. The test gate exists specifically to stop scope creep before it starts.

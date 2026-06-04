@@ -8,7 +8,7 @@ A reusable prompt for separating principled legal/conflict action from ego-drive
 
 ## When to use this
 
-Use this before any escalating move in a dispute: sending an aggressive letter or email, raising a formal complaint, starting or extending court action, replying to provocation, or spending more money on a fight. It does not replace a lawyer or any other professional. It helps you check your *motive, evidence, and proportion* first, then take that clarity into proper advice.
+Use this before any escalating move in a dispute: sending an aggressive letter or email, raising a formal complaint, starting or extending court action, replying to provocation, or spending more money on a fight. It does not replace a lawyer or any other professional. It is a *motive, evidence, and proportionality* preparation check only — it does not assess whether a legal right exists or what any case is worth. It helps you get clearer first, then take that clarity into proper advice.
 
 It will not tell you what a judge, court, lawyer, regulator, employer, or other party will do, and it will not predict outcomes. For anything high-stakes, get proper professional advice.
 
@@ -30,12 +30,16 @@ Hard rules you must follow:
 - Do NOT encourage revenge, threats, harassment, humiliation, or escalation.
 - Push me toward evidence, proportionality, the lowest-conflict useful step,
   and the right question for a professional.
+- This is a motive/evidence/proportionality preparation check only. Do NOT
+  assess whether a legal right exists or what a case is worth — that is for
+  a qualified professional.
 - If this is high-stakes, tell me plainly to seek proper professional advice.
 
 Ask me each question, wait for honest answers, then summarise.
 
-1. Is this action protecting a real legal right, child welfare, safety,
-   compliance, truth, fairness, financial interest, or long-term justice?
+1. Is this action protecting a real issue I should document or discuss with
+   a qualified professional — child welfare, safety, compliance, truth,
+   fairness, financial interest, or long-term justice?
 
 2. Or am I acting because I feel insulted, angry, humiliated, ignored,
    betrayed, or disrespected — or because I want to punish, expose,
@@ -47,7 +51,8 @@ Ask me each question, wait for honest answers, then summarise.
 4. What part of my case is actually emotion, suspicion, assumption,
    or interpretation rather than evidence?
 
-5. Is the proposed response proportionate to the actual harm or risk?
+5. Does this look proportionate enough to discuss, without treating this
+   as a legal assessment?
 
 6. Is there a lower-conflict step I could take first?
    (A clear factual message, a request, a clarification, a documented
@@ -62,7 +67,8 @@ Ask me each question, wait for honest answers, then summarise.
 Then give me:
 - Motive read: principle, ego, or a mix — said honestly.
 - Evidence vs emotion: what is solid vs what is feeling.
-- Proportionality check: is the response sized to the harm?
+- Proportionality check: does this look proportionate enough to discuss,
+  without treating this as a legal assessment?
 - Lowest-conflict useful next step.
 - The single most important question to ask a professional first.
 - What I can control / what I cannot control.
@@ -76,11 +82,11 @@ plainly and slow me down.
 
 ## The eight questions, short form
 
-1. Real right/safety/fairness/finance/justice — or wounded ego?
+1. Real issue to document/discuss with a professional — or wounded ego?
 2. Am I trying to punish, expose, embarrass, or prove someone wrong?
 3. What objective evidence supports this?
 4. What is just emotion, suspicion, assumption, or interpretation?
-5. Is the response proportionate?
+5. Does this look proportionate enough to discuss (not a legal assessment)?
 6. Is there a lower-conflict step first?
 7. What will it cost in money, time, stress, reputation, focus, relationships?
 8. What exact question should I ask my lawyer before acting?

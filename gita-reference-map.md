@@ -28,8 +28,8 @@ See [`sources.md`](sources.md) for the copyright reasoning.
 **Theme in plain English:** Doing your legitimate part is usually better than freezing or opting out. Focus on acting well, not on guaranteeing a particular reward. Avoidance is itself a choice, and often a worse one.
 
 **How the framework uses it:**
-- Question 3 ("right responsibility") and Question 4 ("right action").
-- The bias toward a concrete next move rather than stalling.
+- Question 3 ("right responsibility") and Question 4 ("the clearest next action to consider").
+- The bias toward a concrete next move to weigh rather than stalling.
 
 ## Chapter 6 — discipline of the mind, self-control, inner steadiness
 
@@ -49,7 +49,7 @@ See [`sources.md`](sources.md) for the copyright reasoning.
 
 ## Chapter 16 — truthfulness, self-restraint, anger, pride, harshness
 
-**Theme in plain English:** There are higher qualities (honesty, restraint, fairness) and lower ones (anger, pride, harshness, deceit). Decisions get worse when the lower qualities take the wheel.
+**Theme in plain English:** There are constructive inner states (honesty, restraint, fairness) and destructive inner states (anger, pride, harshness, deceit). Decisions get worse when the destructive inner states take the wheel.
 
 **How the framework uses it:**
 - Question 2's emotion list (anger, pride, revenge, ego).
@@ -69,9 +69,9 @@ See [`sources.md`](sources.md) for the copyright reasoning.
 
 | Framework element | Inspired by (theme reference only) |
 |---|---|
-| Name the loud emotion | Ch. 2 (steadiness), Ch. 16 (lower qualities) |
+| Name the loud emotion | Ch. 2 (steadiness), Ch. 16 (destructive inner states) |
 | Find right responsibility | Ch. 3 (duty), Ch. 18 (discernment of one's role) |
-| Choose right action over avoidance | Ch. 3 (action over inaction) |
+| Choose a grounded next action over avoidance | Ch. 3 (action over inaction) |
 | Take small disciplined steps | Ch. 6 (discipline of the mind) |
 | Lower-conflict, non-hateful conduct | Ch. 12 (patience, non-hatred) |
 | Detach from the outcome | Ch. 2 + Ch. 3 (act well, hold the result loosely) |

@@ -2,7 +2,7 @@
 
 > **This does not tell you what the universe wants. It helps you think clearly before you act.**
 
-For coding assistants (Codex, Cursor, and similar), the framework works best as a **rules file** so the assistant runs it whenever you ask for a decision — about architecture, scope, conflict on a team, or whether to ship now or wait.
+You can simply paste the prompt from [`framework.md`](framework.md) into any AI chat. For coding assistants (Codex, Cursor, and similar), it can also work as a **rules file** so the assistant runs it whenever you ask for a decision — about architecture, scope, conflict on a team, or whether to ship now or wait. The safety boundaries in [`safety.md`](safety.md) are the source of truth; the rules echoed below just keep each block self-contained.
 
 ---
 
@@ -33,13 +33,14 @@ Hard rules:
 
 Walk through: (1) the real decision; (2) what is loud now — fear, anger,
 ego, guilt, desire, attachment, avoidance, pride, revenge, impatience,
-comfort-seeking, or clarity; (3) my right responsibility; (4) the right
-action; (5) attachment vs influence vs no control.
+comfort-seeking, or clarity; (3) my right responsibility; (4) the clearest
+next action to consider; (5) attachment vs influence vs no control.
 
-Then output, labelled: Right action; Why; Gita-inspired principle (theme +
-chapter only); Emotion/attachment to watch; What NOT to do; What I can
-control; What I cannot control; Next 3 grounded steps; one-line reminder to
-act clearly without clinging to the result.
+Then output, labelled: Candidate next action (not a verdict); Why it is
+worth considering; Gita-inspired principle (theme + chapter only);
+Emotion/attachment to watch; What NOT to do; What I can control; What I
+cannot control; Next 3 grounded steps; one-line reminder to act clearly
+without clinging to the result.
 
 For adversarial/conflict decisions, switch to the Dharma vs Ego Legal Check:
 principle vs ego, evidence vs emotion, proportionality, lower-conflict first
@@ -63,12 +64,12 @@ verbatim — they are the safety boundary.
 Guardrail: "This does not tell you what the universe wants. It helps you
 think clearly before you act."
 
-Steps: real decision -> what is loud now -> right responsibility -> right
-action -> attachment vs influence vs no control.
+Steps: real decision -> what is loud now -> right responsibility -> clearest
+next action to consider -> attachment vs influence vs no control.
 
-Output: Right action; Why; Gita-inspired principle (theme + chapter only);
-Emotion to watch; What NOT to do; Can control; Cannot control; Next 3 steps;
-one-line reminder.
+Output: Candidate next action (not a verdict); Why it is worth considering;
+Gita-inspired principle (theme + chapter only); Emotion to watch; What NOT
+to do; Can control; Cannot control; Next 3 steps; one-line reminder.
 
 Hard rules: no legal/medical/financial/psychological/spiritual advice; no
 outcome prediction; never state what another person/court/regulator will do;

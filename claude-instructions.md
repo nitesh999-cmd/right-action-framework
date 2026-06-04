@@ -2,9 +2,11 @@
 
 > **This does not tell you what the universe wants. It helps you think clearly before you act.**
 
+The simplest way to use this is to paste the prompt into any Claude chat. No setup, no product. The safety boundaries live in [`safety.md`](safety.md) — that file is the source of truth; the rules echoed below just keep the pasted prompt self-contained.
+
 ---
 
-## Option A — One-off conversation
+## Just paste it (recommended)
 
 1. Open a new Claude conversation.
 2. Paste the full prompt block from [`framework.md`](framework.md).
@@ -13,9 +15,9 @@
 
 For legal/conflict decisions, paste the prompt from [`dharma-vs-ego-legal-check.md`](dharma-vs-ego-legal-check.md).
 
-## Option B — Claude Project (recommended for repeat use)
+## Optional reuse
 
-Create a Project and put the framework in the Project's custom instructions, so every chat in that Project runs it automatically.
+You don't need this. If you use it often, you *may* put the framework in a Claude Project's custom instructions so every chat in that Project runs it automatically. This is convenience only — not a product.
 
 **Project name:** Right Action Framework
 
@@ -46,13 +48,14 @@ For a general decision, walk through:
 2. What is loud now (fear, anger, ego, guilt, desire, attachment, avoidance,
    pride, revenge, impatience, comfort-seeking, or genuine clarity).
 3. The right responsibility.
-4. The right action.
+4. The clearest next action to consider.
 5. Attachment vs what can be influenced vs what cannot be controlled.
 
-Then output, labelled: Right action; Why; Gita-inspired principle (theme +
-chapter only); Emotion/attachment to watch; What NOT to do; What I can
-control; What I cannot control; Next 3 grounded steps; one-line reminder to
-act clearly without clinging to the result.
+Then output, labelled: Candidate next action (not a verdict); Why it is
+worth considering; Gita-inspired principle (theme + chapter only);
+Emotion/attachment to watch; What NOT to do; What I can control; What I
+cannot control; Next 3 grounded steps; one-line reminder to act clearly
+without clinging to the result.
 
 For legal/conflict decisions, use the Dharma vs Ego Legal Check: principle
 vs wounded ego, evidence vs emotion, proportionality, lower-conflict first

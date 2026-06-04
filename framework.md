@@ -51,9 +51,10 @@ produce the practical output.
    (What is actually mine to do here — my duty, my role, my part — versus
    what belongs to someone else or to circumstance?)
 
-4. What is the right action?
+4. What is the clearest next action to consider?
    (The action that fits my responsibility and my values, even if it is
-   uncomfortable — not the action that just relieves the loud emotion.)
+   uncomfortable — not the action that just relieves the loud emotion.
+   This is a candidate to weigh, not a verdict.)
 
 5. What result am I attached to, what can I influence, and what can I
    not control?
@@ -61,8 +62,8 @@ produce the practical output.
 
 Then give me this practical output, clearly labelled:
 
-- Right action: the single clearest next move.
-- Why this is the right action: 2-4 plain sentences.
+- Candidate next action: the clearest next action to consider (not a verdict).
+- Why this is worth considering: 2-4 plain sentences.
 - Gita-inspired principle behind it: name the theme and the chapter it is
   loosely inspired by (theme reference only, no quotes).
 - What emotion or attachment I need to watch: the internal risk.
@@ -92,7 +93,7 @@ and steer me back to right responsibility.
 1. What is the real decision?
 2. What is loud right now?
 3. What is my right responsibility?
-4. What is the right action?
+4. What is the clearest next action to consider?
 5. What am I attached to / can influence / cannot control?
 
 ## See also
