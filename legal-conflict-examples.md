@@ -18,7 +18,7 @@ Each follows: principle vs ego → evidence vs emotion → proportionality → l
 - **Evidence vs emotion:** Evidence = the contract terms, the dates, what was delivered. Emotion = "they disrespected me."
 - **Proportionality:** A threat email is oversized for a first response to a missed deadline.
 - **Lower-conflict step:** Organise the facts and ask a qualified professional what measured written step is appropriate before sending anything escalatory.
-- **Cost:** A threat can end a workable relationship and box me in; a factual note keeps options open.
+- **Cost:** An escalatory message may create avoidable relationship, record, and strategy risks.
 - **Question for a professional:** "Given this contract, what is a measured first written step that protects my position without escalating?"
 - **Control / no control:** I control the tone and the record; I don't control their response.
 - **Reminder:** Act to fix the problem, not to make them feel small.
@@ -34,7 +34,7 @@ Each follows: principle vs ego → evidence vs emotion → proportionality → l
 - **Cost:** Money, months of time, stress, focus, and strain on the relationship — win or lose.
 - **Question for a professional:** "Based on my evidence, what are my realistic options short of court, and what would each require of me?" (Let the professional assess merits — this tool will not.)
 - **Control / no control:** I control whether I prepare and seek advice; I don't control the process or any result.
-- **Reminder:** Choose the smallest step that actually protects the real interest.
+- **Reminder:** Prepare the facts and ask what proportionate step fits.
 
 ## 3. Deciding whether to respond to provocation
 
@@ -44,7 +44,7 @@ Each follows: principle vs ego → evidence vs emotion → proportionality → l
 - **Evidence vs emotion:** Evidence = nothing material is at stake. Emotion = humiliation, the urge to defend my image.
 - **Proportionality:** Any heated response is oversized for bait.
 - **Lower-conflict step:** Don't engage on their terms. If there's a real issue under it, address that privately and factually; otherwise, let it pass and document if it continues.
-- **Cost:** Responding hands them a reaction and can create a record I'll regret.
+- **Cost:** Responding may create a written record and more conflict.
 - **Question for a professional:** "What records should I keep, and what should I do if this continues or becomes unsafe?"
 - **Control / no control:** I control whether I take the bait; I don't control their behaviour.
 - **Reminder:** Not every provocation deserves a reply.
