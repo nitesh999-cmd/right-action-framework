@@ -17,7 +17,7 @@ Each follows: principle vs ego → evidence vs emotion → proportionality → l
 - **Principle vs ego:** Some principle (a real contractual issue) but mostly anger and wanting them to feel it.
 - **Evidence vs emotion:** Evidence = the contract terms, the dates, what was delivered. Emotion = "they disrespected me."
 - **Proportionality:** A threat email is oversized for a first response to a missed deadline.
-- **Lower-conflict step:** A calm, factual message stating the term, the date missed, and the specific remedy I'm requesting, with a deadline.
+- **Lower-conflict step:** Organise the facts and ask a qualified professional what measured written step is appropriate before sending anything escalatory.
 - **Cost:** A threat can end a workable relationship and box me in; a factual note keeps options open.
 - **Question for a professional:** "Given this contract, what is a measured first written step that protects my position without escalating?"
 - **Control / no control:** I control the tone and the record; I don't control their response.
@@ -45,7 +45,7 @@ Each follows: principle vs ego → evidence vs emotion → proportionality → l
 - **Proportionality:** Any heated response is oversized for bait.
 - **Lower-conflict step:** Don't engage on their terms. If there's a real issue under it, address that privately and factually; otherwise, let it pass and document if it continues.
 - **Cost:** Responding hands them a reaction and can create a record I'll regret.
-- **Question for a professional:** Only if it becomes harassment — "What records should I keep, and what are my options if this continues?"
+- **Question for a professional:** "What records should I keep, and what should I do if this continues or becomes unsafe?"
 - **Control / no control:** I control whether I take the bait; I don't control their behaviour.
 - **Reminder:** Not every provocation deserves a reply.
 
